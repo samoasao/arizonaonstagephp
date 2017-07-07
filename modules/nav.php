@@ -24,7 +24,7 @@
             <li><a href="<?php echo $site_url; ?>/upcoming-shows/producers">The Producers</a></li>
           </ul>
         </li>
-        <li id="tickets-link"><a href="/">Buy Tickets</a></li>
+        <li id="tickets-link"><a href="<?php echo $site_url; ?>/tickets">Buy Tickets</a></li>
         <li id="archive-link"><a href="/">Archives</a></li>
        
       </ul>

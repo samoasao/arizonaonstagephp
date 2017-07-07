@@ -72,14 +72,14 @@
 
 	</main>
 
-	<?php include_once('modules/footer.php'); ?>
+<?php include_once($path_to_home . 'modules/footer.php'); ?>
 
-	<script>
-		$("#home-link").addClass("active");
-		$(".nav a").on("click", function(){
-			$("#home-link").removeClass("active");
-		});
-	</script>
+<script>
+	$("#upcoming-link").addClass("active");
+	$(".nav a").on("click", function(){
+	   $("#upcoming-link").removeClass("active");
+	});
+</script>
 
 </body>
 </html>
