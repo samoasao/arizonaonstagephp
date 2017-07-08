@@ -25,7 +25,7 @@
           </ul>
         </li>
         <li id="tickets-link"><a href="/tickets">Buy Tickets</a></li>
-        <li id="archive-link"><a href="/archives/">Archives</a></li>
+        <li id="archive-link"><a href="/archive/">Archives</a></li>
        
       </ul>
       

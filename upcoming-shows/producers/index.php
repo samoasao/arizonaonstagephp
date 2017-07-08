@@ -17,7 +17,7 @@
 					<h4 class="show-location">Berger Performing Arts Center<br>1200 W. Speedway</h4>
 					<a href = "/tickets">
 					<button class="btn btn-lg mtb-10 tickets">
-						<i class="fa fa-ticket"></i> Buy Tickets Now!
+						 Buy Tickets Now!
 					</button>
 					</a>
 				</div>
