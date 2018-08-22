@@ -15,10 +15,10 @@
 <?php include_once($path_to_home . 'assets/modules/footer.php'); ?>
 
 <script>
-	$("#archive-link").addClass("active");
+	$("#upcoming-link").addClass("active");
 	
 	$(".nav a").on("click", function(){
-	   $("#archive-link").removeClass("active");
+	   $("#upcoming-link").removeClass("active");
 	});
 </script>
 
