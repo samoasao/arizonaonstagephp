@@ -1,5 +1,6 @@
+<!-- SITE VARIABLES -->
 <?php $site_title = "Arizona Onstage Productions"; ?>
-<?php $site_url = "http://localhost:8888"; ?>
+
 <!DOCTYPE html>
 <html lang="en-us">
 

@@ -16,7 +16,7 @@
     
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
    
-      <ul class="nav navbar-nav">
+      <ul class="nav navbar-nav navbar-right">
         <li id="home-link"><a href="/">Home</a></li>
         <li id="upcoming-link" class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Upcoming Shows <span class="caret dropdown-toggle"></span></a>

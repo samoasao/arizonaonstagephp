@@ -7,7 +7,7 @@
 		<div class = "container">
 			<h1 class="title"><?php echo $site_title; ?></h1>
 			<p class="description">Bringing Broadway and Off-Broadway to Tucson for 15 years!</p>
-			<a href = "./tickets">
+			<a href = "/tickets">
 				<button class="btn btn-lg mtb-25 tickets">
 					Buy Tickets!
 				</button>
@@ -79,7 +79,7 @@
 
 	</main>
 
-<?php include_once($path_to_home . 'modules/footer.php'); ?>
+<?php include_once($path_to_home . 'assets/modules/footer.php'); ?>
 
 <script>
 	$("#home-link").addClass("active");

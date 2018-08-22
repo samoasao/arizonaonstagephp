@@ -1,8 +1,8 @@
 <?php $path_to_home = '../'; ?>
 
-<?php include_once($path_to_home . 'modules/header.php');  ?>
+<?php include_once($path_to_home . 'assets/modules/header.php');  ?>
 <body>
-<?php include_once($path_to_home . 'modules/nav.php'); ?>
+<?php include_once($path_to_home . 'assets/modules/nav.php'); ?>
 
 <div id="AOP-Content-div" class="container">
 
