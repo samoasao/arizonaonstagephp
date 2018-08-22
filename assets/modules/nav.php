@@ -10,22 +10,22 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/">Arizona Onstage</a>
+      <a class="navbar-brand" href="<?php echo $url; ?>/">Arizona Onstage</a>
     </div>
 
     
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
    
       <ul class="nav navbar-nav navbar-right">
-        <li id="home-link"><a href="/">Home</a></li>
+        <li id="home-link"><a href="<?php echo $url; ?>/">Home</a></li>
         <li id="upcoming-link" class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Upcoming Shows <span class="caret dropdown-toggle"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="/upcoming-shows/mamma_mia">Mamma Mia!</a></li>
+            <li><a href="<?php echo $url; ?>/upcoming-shows/mamma_mia">Mamma Mia!</a></li>
           </ul>
         </li>
-        <li id="tickets-link"><a href="/tickets">Buy Tickets</a></li>
-        <li id="archive-link"><a href="/archive/">Archives</a></li>
+        <li id="tickets-link"><a href="<?php echo $url; ?>/tickets">Buy Tickets</a></li>
+        <li id="archive-link"><a href="<?php echo $url; ?>/archive/">Archives</a></li>
        
       </ul>
       

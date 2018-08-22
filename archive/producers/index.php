@@ -15,7 +15,7 @@
 					<p class="show-creators">Book by Mel Brooks and Thomas Meehan <br> Music and Lyrics by Mel Brooks <br>Artistic Director Kevin Johnson</p>
 					<h3 class="show-dates">August 19-20, 26-27</h3>
 					<h4 class="show-location">Berger Performing Arts Center<br>1200 W. Speedway</h4>
-					<a href = "/tickets">
+					<a href = "<?php echo $url; ?>/tickets">
 					<button class="btn btn-lg mtb-10 tickets">
 						 Buy Tickets Now!
 					</button>
