@@ -24,6 +24,10 @@
 
 
 			</div>
+
+
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/S0i7ogujr48" frameborder="0" allowfullscreen></iframe> -->
 			<div class = "row mtb-25 about-row">
 
 				<div class = "row">
@@ -47,6 +51,14 @@
 					</div>
 				</div>
 			</div>
+
+			<div class="row mtb-25">
+	<div class="col-md-offset-1 col-md-10">
+	<div class="embed-responsive embed-responsive-16by9">
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/S0i7ogujr48" allowfullscreen></iframe>
+	</div>
+	</div>
+</div>
 
 			<div class = "row mtb-100">
 				<div class = "row">

@@ -22,10 +22,12 @@
 			<div class="page-header current-header">
 				<h1>Current Production</h1>
 			</div>
+			
 
 			<div class="row">
 				<div class="col-sm-8">
 					<a href="./upcoming-shows/producers"><img src="img/producerswebfinal.jpeg" class="img-responsive img-rounded curent-show-img img-thumbnail mtb-25"/></a>
+
 				</div>
 				<div class="col-sm-4">
 					<a href="./upcoming-shows/producers"><h2 class="show-title">The Producers</h2></a> 
@@ -38,6 +40,13 @@
 
 				</div>
 			</div>
+			<div class="row mtb-25">
+				<div class="col-sm-offset-2 col-sm-8">
+	<div class="embed-responsive embed-responsive-16by9">
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/S0i7ogujr48" allowfullscreen></iframe>
+	</div>
+	</div>
+	</div>
 			<div class="mtb-25">
 			</div>
 
