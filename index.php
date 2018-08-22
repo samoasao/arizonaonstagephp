@@ -1,7 +1,7 @@
 
 <?php include_once('assets/modules/header.php'); ?>
 <body class="landing">
-	<?php include_once('modules/nav.php'); ?>
+	<?php include_once('assets/modules/nav.php'); ?>
 
 	<div class = "jumbotron">
 		<div class = "container">
@@ -14,8 +14,6 @@
 			</a>
 		</div>
 	</div>
-
-
 
 	<main>
 		<div class="container">
