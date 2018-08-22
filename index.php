@@ -1,5 +1,5 @@
 
-<?php include_once('modules/header.php'); ?>
+<?php include_once('assets/modules/header.php'); ?>
 <body class="landing">
 	<?php include_once('modules/nav.php'); ?>
 
