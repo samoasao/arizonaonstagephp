@@ -10,7 +10,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/"></a>
+      <a class="navbar-brand" href="/">Arizona Onstage</a>
     </div>
 
     
@@ -21,7 +21,7 @@
         <li id="upcoming-link" class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Upcoming Shows <span class="caret dropdown-toggle"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="/upcoming-shows/producers">The Producers</a></li>
+            <li><a href="/upcoming-shows/mamma_mia">Mamma Mia!</a></li>
           </ul>
         </li>
         <li id="tickets-link"><a href="/tickets">Buy Tickets</a></li>

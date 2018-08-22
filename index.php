@@ -24,7 +24,7 @@
 
 			<div class="row">
 				<div class="col-sm-8">
-					<a href="./upcoming-shows/producers"><img src="img/producerswebfinal.jpeg" class="img-responsive img-rounded curent-show-img img-thumbnail mtb-25"/></a>
+					<a href="./upcoming-shows/producers"><img src="assets/img/producerswebfinal.jpeg" class="img-responsive img-rounded curent-show-img img-thumbnail mtb-25"/></a>
 
 				</div>
 				<div class="col-sm-4">

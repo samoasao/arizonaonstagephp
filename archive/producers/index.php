@@ -8,7 +8,7 @@
 		<div class="container">
 			<div class="row">
 				<div class = "col-sm-12 col-md-7">
-					<img src="<?php echo $path_to_home; ?>/img/producerswebfinal.jpeg" class="img-responsive img-rounded center-block show-image-main mtb-25"  alt="Arizona Onstage Presents The Producers" />
+					<img src="assets/img/producerswebfinal.jpeg" class="img-responsive img-rounded center-block show-image-main mtb-25"  alt="Arizona Onstage Presents The Producers" />
 				</div>
 				<div class = "col-sm-12 col-md-offset-1 col-md-4 mtb-25">
 					<h1 class="show-title">The Producers</h1>
@@ -47,7 +47,7 @@
 						<p>PG-13 - 'The Producers' is an equal-opportunity offender...it's Mel Brooks, folks!</span></p>
 					</div>
 					<div class = "col-sm-12 col-md-3">
-						<img src = "<?php echo $path_to_home; ?>/img/Steve_Jacob.jpg" class="img-responsive mtb-5 img-rounded" alt="The Producers" />
+						<img src = "assets/img/Steve_Jacob.jpg" class="img-responsive mtb-5 img-rounded" alt="The Producers" />
 					</div>
 				</div>
 			</div>
@@ -67,7 +67,7 @@
 				</div>
 				</div>
 				<div class = "col-sm-12 col-md-3">
-					<img src = "<?php echo $path_to_home; ?>/img/LizUlla.jpg" class="img-responsive mtb-5 img-rounded" alt="Liz Cracchiolo as Ulla in The Producers" />
+					<img src = "assets/img/LizUlla.jpg" class="img-responsive mtb-5 img-rounded" alt="Liz Cracchiolo as Ulla in The Producers" />
 				</div>
 				<div class = "col-sm-12 col-md-7 show-cast">
 
@@ -186,7 +186,7 @@
 
 				</div>
 				<div class = "col-sm-12 col-md-2">
-					<img src = "<?php echo $path_to_home; ?>/img/JacobCarmen.jpg" class="img-responsive mtb-5 img-rounded carmen mtb-100" alt="The Producers" />
+					<img src = "assets/img/JacobCarmen.jpg" class="img-responsive mtb-5 img-rounded carmen mtb-100" alt="The Producers" />
 				</div>
 			</div>
 		</div>
