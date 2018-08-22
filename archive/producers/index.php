@@ -196,9 +196,10 @@
 <?php include_once($path_to_home . 'assets/modules/footer.php'); ?>
 
 <script>
-	$("#upcoming-link").addClass("active");
+	$("#archive-link").addClass("active");
+	
 	$(".nav a").on("click", function(){
-	   $("#upcoming-link").removeClass("active");
+	   $("#archive-link").removeClass("active");
 	});
 </script>
 

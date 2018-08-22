@@ -83,9 +83,6 @@
 
 <script>
 	$("#home-link").addClass("active");
-	$(".nav a").on("click", function(){
-	   $("#home-link").removeClass("active");
-	});
 </script>
 
 </body>
