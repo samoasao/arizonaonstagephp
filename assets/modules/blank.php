@@ -6,10 +6,8 @@
 
 	<div class = "show-page">
 		<div class="container">
-    <h1 class="show-title">Mamma Mia</h1>
 		</div>
 	</div>
-
 
 
 <?php include_once($path_to_home . 'assets/modules/footer.php'); ?>

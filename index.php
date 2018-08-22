@@ -23,28 +23,35 @@
 			
 
 			<div class="row">
-				<div class="col-sm-8">
-					<a href="./upcoming-shows/producers"><img src="assets/img/producerswebfinal.jpeg" class="img-responsive img-rounded curent-show-img img-thumbnail mtb-25"/></a>
-
-				</div>
-				<div class="col-sm-4">
-					<a href="./upcoming-shows/producers"><h2 class="show-title">The Producers</h2></a> 
-					<h4 class="show-creators">Book by Mel Brooks and Thomas Meehan <br> Music and Lyrics by Mel Brooks</h4>
-					<h4 class="show-dates">August 19-20, 26-27</h4>
-					<h4 class="show-location">Berger Performing Arts Center</h4>
-
-					<a href = "./tickets"><button class="btn btn-lg tickets mtb-10">Buy Tickets!</button></a>
-					<p>A down-on-his-luck Broadway producer and his mild-mannered accountant come up with a scheme to make millions by producing what could be the most notorious flop in history. They find the worst play ever written (the gloriously offensive “Springtime For Hitler”), raise two million dollars, and plan to run away to Rio with the money! Only one thing goes awry: the show is a smash hit! Based on Mel Brooks’ classic cult comedy film...<a href="./upcoming-shows/producers">More Info</a></p>
+				<div class="col-sm-12">
+					<a href="./upcoming-shows/mamma_mia"><img src="assets/img/mammaweblogo1.jpg" class="img-responsive img-rounded curent-show-img img-thumbnail mtb-25"/></a>
 
 				</div>
 			</div>
-			<div class="row mtb-25">
-				<div class="col-sm-offset-2 col-sm-8">
-	<div class="embed-responsive embed-responsive-16by9">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/S0i7ogujr48" allowfullscreen></iframe>
-	</div>
-	</div>
-	</div>
+			<div class="row">
+				<div class="col-sm-12">
+					<br>
+				Over 60 million people worldwide have fallen in love with the characters, the story and the music that make Mamma Mia! the ultimate feel-good show!<br><br>
+				</div>
+			</div> 
+			<div class="row">
+				<div class="col-sm-4">
+					
+					<h4 class="show-creators">Music and Lyrics by Björn Ulvaeus and Benny Andersson <br> Book by Catherine Johnson</h4>
+					<h4 class="show-dates">November 24 to December 1<br> (5 Performances)</h4>
+					<h4 class="show-location">Berger Performing Arts Center</h4>
+
+					<a href = "./tickets"><button class="btn btn-lg tickets mtb-10">Buy Tickets!</button></a><br>
+					<a class="btn btn-primary" href="./upcoming-shows/mamma_mia">More Info</a>
+				</div>
+				<div class="col-sm-8">
+					<p>ABBA's hits tell the hilarious story of a young woman's search for her birth father. This sunny and funny tale unfolds on a Greek island paradise. On the eve of her wedding, a daughter's quest to discover the identity of her father brings three men from her mother's past back to the island they last visited 20 years ago.
+
+The story-telling magic of ABBA's timeless songs propels this enchanting tale of love, laughter and friendship, creating an unforgettable show. A large cast, non-stop laughs and explosive dance numbers combine to make Mamma Mia! a guaranteed smash hit for any theatre. A mother. A daughter. Three possible dads. And a trip down the aisle you'll never forget! </p>
+
+				</div>
+			</div>
+			
 			<div class="mtb-25">
 			</div>
 

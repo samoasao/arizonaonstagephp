@@ -4,7 +4,7 @@
 <body>
 <?php include_once($path_to_home . 'assets/modules/nav.php'); ?>
 
-	<div class = show-page>
+	<div class = "show-page">
 		<div class="container">
 			<div class="row">
 				<div class = "col-sm-12 col-md-7">

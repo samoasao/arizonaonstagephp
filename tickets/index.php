@@ -11,11 +11,11 @@
 
 	</div>
 	<div class="container text-center ticket-page">
-		<h1>Tickets for The Producers</h1>
+		<h1>Tickets for Mamma Mia! On sale soon...</h1>
 
 		<table class="table table-striped">
 			<tbody>
-			<div class="row">
+			<!-- <div class="row">
 			<tr>
 			<td>
 				
@@ -153,7 +153,7 @@
 					</div>
 				</form>
 				</td></tr>
-			</div>
+			</div> -->
 			</tbody>
 			</table>
 		<p>	Ticket purchases are handled via Pay-Pal (no account is neccesary)<br>
