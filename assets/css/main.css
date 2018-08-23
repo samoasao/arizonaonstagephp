@@ -68,7 +68,7 @@ footer{background-color:#ccc;}
 
 
 
-.show-page p, .show-page h4, .show-page h1, .show-page h3, .show-page h2 {
+.show-page p > *, .show-page p, .show-page h4, .show-page h1, .show-page h3, .show-page h2 {
 	color: #eee;
 	
 }
