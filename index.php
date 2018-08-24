@@ -7,11 +7,11 @@
 		<div class = "container">
 			<h1 class="title"><?php echo $site_title; ?></h1>
 			<p class="description">Bringing Broadway and Off-Broadway to Tucson for 15 years!</p>
-			<a href = "/tickets">
+			<!-- <a href = ""> -->
 				<button class="btn btn-lg mtb-25 tickets">
-					Buy Tickets!
+				Tickets On Sale Soon!
 				</button>
-			</a>
+			<!-- </a> -->
 		</div>
 	</div>
 
@@ -41,7 +41,10 @@
 					<h4 class="show-dates">November 24 to December 1<br> (5 Performances)</h4>
 					<h4 class="show-location">Berger Performing Arts Center</h4>
 
-					<a href = "./tickets"><button class="btn btn-lg tickets mtb-10">Buy Tickets!</button></a><br>
+					<!-- <a href = ""> -->
+					<button class="btn btn-lg tickets mtb-10">Tickets On Sale Soon!</button>
+					<!-- </a> -->
+					<br>
 					<a class="btn btn-primary" href="./upcoming-shows/mamma_mia">More Info</a>
 				</div>
 				<div class="col-sm-8">

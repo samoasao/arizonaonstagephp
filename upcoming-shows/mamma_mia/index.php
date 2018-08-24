@@ -19,11 +19,12 @@
 					<p class="show-creators">Music and Lyrics by Björn Ulvaeus and Benny Andersson <br> Book by Catherine Johnson<p>Artistic Director Kevin Johnson</p>
 					<h3 class="show-dates">November 24, 25, 30 & December 1, 2</h3>
 					<h4 class="show-location">Berger Performing Arts Center<br>1200 W. Speedway</h4>
-					<a href = "<?php echo $url; ?>/tickets">
+					<!-- <a href = "<?php// echo $url; ?>/tickets"> -->
+					
 					<button class="btn btn-lg mtb-10 tickets">
-						 Buy Tickets Now!
+						 Tickets On Sale Soon!
 					</button>
-					</a>
+					<!-- </a> -->
 				</div>
 			</div>
 

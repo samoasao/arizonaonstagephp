@@ -13,6 +13,7 @@
     <script src="<?php echo $url; ?>/assets/vendor/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
     <script src="<?php echo $url; ?>/assets/js/main.js"></script>
     <link rel="stylesheet" href="<?php echo $url; ?>/assets/css/style.css" type="text/css" media="screen" />
+    <link rel="shortcut icon" href="<?php echo $url; ?>/assets/img/favicon.ico" type="image/x-icon" />
     <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|Poiret+One|Proza+Libre" rel="stylesheet">
 </head>
 
