@@ -7,11 +7,11 @@
 		<div class = "container">
 			<h1 class="title"><?php echo $site_title; ?></h1>
 			<p class="description">Bringing Broadway and Off-Broadway to Tucson for 15 years!</p>
-			<!-- <a href = ""> -->
+			<a href = "<?php echo $ticketUrl ?>" target="_blank"> 
 				<button class="btn btn-lg mtb-25 tickets">
-				Tickets On Sale Soon!
+				Buy Tickets!
 				</button>
-			<!-- </a> -->
+			</a>
 		</div>
 	</div>
 
@@ -41,9 +41,9 @@
 					<h4 class="show-dates">November 24 to December 1<br> (5 Performances)</h4>
 					<h4 class="show-location">Berger Performing Arts Center</h4>
 
-					<!-- <a href = ""> -->
+					<a href = "<?php echo $ticketUrl ?>" target="_blank"> 
 					<button class="btn btn-lg tickets mtb-10">Tickets On Sale Soon!</button>
-					<!-- </a> -->
+					</a>
 					<br>
 					<a class="btn btn-primary" href="./upcoming-shows/mamma_mia">More Info</a>
 				</div>
@@ -92,7 +92,11 @@ The story-telling magic of ABBA's timeless songs propels this enchanting tale of
 <?php include_once($path_to_home . 'assets/modules/footer.php'); ?>
 
 <script>
+	$(document).ready(function(){
+
 	$("#home-link").addClass("active");
+
+	});
 </script>
 
 </body>

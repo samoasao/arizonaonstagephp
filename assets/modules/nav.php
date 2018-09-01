@@ -24,7 +24,7 @@
             <li><a href="<?php echo $url; ?>/upcoming-shows/mamma_mia">Mamma Mia!</a></li>
           </ul>
         </li>
-        <li id="tickets-link"><a href="<?php echo $url; ?>/tickets">Buy Tickets</a></li>
+        <li id="tickets-link"><a href = <?php echo $ticketUrl ?> target="_blank">Buy Tickets</a></li>
         <li id="archive-link"><a href="<?php echo $url; ?>/archive/">Archives</a></li>
        
       </ul>
