@@ -57,7 +57,154 @@
 				</div>
 			</div>
 
-			
+			<div class = "row mtb-100">
+				<div class = "row">
+				<div class = "col-sm-12">
+				<!-- <h2>Cast</h2> -->
+				</div>
+				</div>
+				<div class = "col-sm-12 col-md-offset-3 col-md-7 show-cast">
+
+
+					<div class = "show-featured-cast">
+						<div class = "row text-center">
+							<h3>Featuring</h3>
+							<div class = col-xs-6>
+								<p>LIZ CRACCHIOLO</p>
+							</div>
+							<div class = col-xs-6>
+								<p>DANAE DORAME</p>
+							</div>
+						</div>
+						<div class = "row text-center">
+							<div class = col-xs-4>
+								<p>KIT RUNGE</p>
+							</div>
+							<div class = col-xs-4>
+								<p>DENNIS TAMBLYN</p>
+							</div>
+							<div class = col-xs-4>
+								<p>JORDAN SIEBERT</p>
+							</div>
+						</div>
+						<div class = "row text-center">
+							<div class = col-xs-6>
+								<p>STEPHANIE SIKES</p>
+							</div>
+							<div class = col-xs-6>
+								<p>JESSICA ARMISTEAD</p>
+							</div>
+						</div>
+						<div class = "row text-center">
+							<div class = col-xs-4>
+								<p>MATTHEW MILNE</p>
+							</div>
+							<div class = col-xs-4>
+								<p>ERIC ARANDA</p>
+							</div>
+							<div class = col-xs-4>
+								<p>DANNY QUINONES</p>
+							</div>
+						</div>
+						<div class = "row text-center">
+							<div class = col-xs-6>
+								<p>KELLY COATES</p>
+							</div>
+							<div class = col-xs-6>
+								<p>PIPER RUNGE</p>
+							</div>
+						</div>
+					</div>
+					<div class = "show-ensemble-cast mtb-25">
+						<div class = "row text-center mtb-10">
+							<h4>Ensemble</h4>
+							<div class = col-xs-3>
+								<p>Erin Buckley</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Veronica Conran</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Emiliya Dale</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Chloe Elmer</p>
+							</div>
+						</div>
+						<div class = "row text-center mtb-10">
+							<div class = col-xs-3>
+								<p>Kasey Engels</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Paige Gagliardi</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Lexi George</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Jennifer Hoover</p>
+							</div>
+						</div>
+						<div class = "row text-center mtb-10">
+							<div class = col-xs-3>
+								<p>Anabelle Mali</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Sarah Martino</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Monique Marie Mooty</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Indigo Runge</p>
+							</div>
+						</div>
+						<div class = "row text-center mtb-10">
+							<div class = col-xs-3>
+								<p>Evyn Scott</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Carrie Silverman</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Morgan H. Smith</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Elena Terry</p>
+							</div>
+						</div>
+						<div class = "row text-center mtb-10">
+							<div class = col-xs-3>
+								<p>Kaylee Wilt</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Lydia Zadareky</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Jeffrey Baden</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Mathew Balicki</p>
+							</div>
+						</div>
+						<div class = "row text-center mtb-10">
+							<div class = col-xs-3>
+								<p>Ryan Dillon</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Daniel Fapp</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Daniel Gilmore</p>
+							</div>
+							<div class = col-xs-3>
+								<p>Jeremy Meeker-Hackett</p>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
 
 
 		</div>
