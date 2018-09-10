@@ -17,7 +17,7 @@
 				<div class = "col-sm-12 col-md-offset-1 col-md-4 mtb-25">
 					<h1 class="show-title">Mamma Mia!</h1>
 					<p class="show-creators">Music and Lyrics by Björn Ulvaeus and Benny Andersson <br> Book by Catherine Johnson<p>Artistic Director Kevin Johnson</p>
-					<h3 class="show-dates">November 24, 25, 30 & December 1, 2</h3>
+					<h3 class="show-dates">November 24, 25 & December 1, 2</h3>
 					<h4 class="show-location">Berger Performing Arts Center<br>1200 W. Speedway</h4>
 					<a href = <?php echo $ticketUrl ?> target="_blank"> 
 					

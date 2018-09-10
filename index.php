@@ -42,7 +42,7 @@
 					<h4 class="show-location">Berger Performing Arts Center</h4>
 
 					<a href = "<?php echo $ticketUrl ?>" target="_blank"> 
-					<button class="btn btn-lg tickets mtb-10">Tickets On Sale Soon!</button>
+					<button class="btn btn-lg tickets mtb-10">Buy Tickets!</button>
 					</a>
 					<br>
 					<a class="btn btn-primary" href="./upcoming-shows/mamma_mia">More Info</a>
