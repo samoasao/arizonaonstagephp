@@ -11,7 +11,7 @@
 
 	</div>
 	<div class="container text-center ticket-page">
-		<h1>Tickets for Mamma Mia! On sale soon...</h1>
+		<h1>Tickets for Fun Home on sale soon...</h1>
 
 		<table class="table table-striped">
 			<tbody>

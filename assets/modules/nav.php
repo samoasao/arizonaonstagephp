@@ -21,7 +21,8 @@
         <li id="upcoming-link" class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Upcoming Shows <span class="caret dropdown-toggle"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo $url; ?>/upcoming-shows/mamma_mia">Mamma Mia!</a></li>
+            <li><a href="<?php echo $url; ?>#">Fun Home</a></li>
+            <li><a href="<?php echo $url; ?>#">Hedwig and the Angry Inch</a></li>
           </ul>
         </li>
         <li id="tickets-link"><a href = <?php echo $ticketUrl ?> target="_blank">Buy Tickets</a></li>

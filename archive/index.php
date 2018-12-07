@@ -24,6 +24,11 @@
 	
 	<br><br><p align="left">
 
+	<a href="mamma_mia/"><span Class="hyperlinkStyle">Mamma Mia!</a>
+	<br>
+	"This play can be grand fun, and certainly the packed audience at the opening was having it." - Arizona Daily Star
+	<br><br>
+
 	<a href="producers/"><span Class="hyperlinkStyle">The Producers</a>
   <br>"This is a massive undertaking — 27 cast members, more than 500 costume pieces, 150 or so props. AOP is a small company, but founder Kevin Johnson loves to think big. A show that made such a delicious mockery of Hitler and which kept the audience laughing and engrossed." - Arizona Daily Star
   <br><br>

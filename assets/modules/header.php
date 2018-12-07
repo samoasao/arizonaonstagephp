@@ -1,7 +1,7 @@
 <!-- SITE VARIABLES -->
 <?php $site_title = "Arizona Onstage Productions"; ?>
 <?php $url = ""; ?>
-<?php $ticketUrl = "http://www.brownpapertickets.com/event/3606347"; ?>
+<?php $ticketUrl = "/tickets"; ?>
 
 <!DOCTYPE html>
 <html lang="en-us">
