@@ -1,21 +1,44 @@
 <?php $path_to_home = '../'; ?>
 
 <?php include_once($path_to_home . 'assets/modules/header.php');  ?>
+
 <body>
-<?php include_once($path_to_home . 'assets/modules/nav.php'); ?>
-
-	
-	<div class="ticket-banner"  style="height:145px;">
+    <?php include_once($path_to_home . 'assets/modules/nav.php'); ?>
 
 
+    <div class="ticket-banner" style="height:145px;">
 
-	</div>
-	<div class="container text-center ticket-page">
-		<h1>Tickets for Fun Home on sale soon...</h1>
 
-		<table class="table table-striped">
+
+    </div>
+    <div class="container text-center ticket-page">
+        <h1>Tickets are sold at Brown Paper Tickets.<br> Click a production below to proceed to ticket sales.</h1>
+
+        <div class="row text-center mb-25">
+            <div class="col-sm-5 johnston-dark">
+                <A HREF="https://www.brownpapertickets.com/event/4487053"><IMG
+                        SRC="https://www.brownpapertickets.com/g/6/BPT_buy_tickets_large.png" WIDTH=182 HEIGHT=92
+                        BORDER=0></A>
+						<br>
+						Hedwing and the Angry Inch<br>
+            </div>
+			<div class="col-sm-2">
+			</div>
+            <div class="col-sm-5 johnston-dark">
+                <A HREF="https://www.brownpapertickets.com/event/4487053"><IMG
+                        SRC="https://www.brownpapertickets.com/g/6/BPT_buy_tickets_large.png" WIDTH=182 HEIGHT=92
+                        BORDER=0></A>
+						<br>
+						Oy!<br>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- <table class="table table-striped">
 			<tbody>
-			<!-- <div class="row">
+			 <div class="row">
 			<tr>
 			<td>
 				
@@ -153,23 +176,24 @@
 					</div>
 				</form>
 				</td></tr>
-			</div> -->
+			</div> 
 			</tbody>
 			</table>
 		<p>	Ticket purchases are handled via Pay-Pal (no account is neccesary)<br>
 		<p> Tickets are GENERAL ADMISSION/OPEN SEATING.<br>
 		TICKETS WILL BE MAILED DIRECTLY <br>IF YOU WOULD PREFER WILL CALL INSTEAD OF MAIL, PLEASE SEND EMAIL TO AZONSTAGE@YAHOO.COM</p>
-		</div>
-	
+		</div> -->
 
-<?php include_once($path_to_home . 'assets/modules/footer.php'); ?>
 
-<script>
-	$("#tickets-link").addClass("active");
-	$(".nav a").on("click", function(){
-	   $("#tickets-link").removeClass("active");
-	});
-</script>
+    <?php include_once($path_to_home . 'assets/modules/footer.php'); ?>
+
+    <script>
+    $("#tickets-link").addClass("active");
+    $(".nav a").on("click", function() {
+        $("#tickets-link").removeClass("active");
+    });
+    </script>
 
 </body>
+
 </html>
