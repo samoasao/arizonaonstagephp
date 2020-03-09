@@ -7,116 +7,19 @@
 		<div class = "container">
 			<h1 class="title"><?php echo $site_title; ?></h1>
 			<p class="description">Bringing Broadway and Off-Broadway to Tucson for 15 years!</p>
-			<a href = "<?php echo $ticketUrl ?>" target="_blank"> 
-				<button class="btn btn-lg mtb-25 tickets">
+			<!---<a href = "<?php echo $ticketUrl ?>" target="_blank"> 
+				<!---<button class="btn btn-lg mtb-25 tickets">
 				Buy Tickets!
-				</button>
+				</button>-->
 			</a>
 		</div>
 	</div>
 
 	<main>
-		<div class="container">
-			<div class="page-header current-header">
-				<h1>Upcoming Productions</h1>
-			</div>
-			
-
-			<div class="row">
-				<div class="col-sm-4">
-					<a href="#"><img src="assets/img/Fun-HomeWeb.jpg" class="img-responsive img-rounded curent-show-img text-center mtb-25"/></a>
-
-				</div>
-				<div class="col-sm-8">
-				<h2>Fun Home</h2>
-					<div class="row">
-
-						<div class="col-sm-9">
-						
-
-						<h4 class="show-creators">Music by Jeanine Tesori Book and Lyrics by Lisa Kron <br> Based on the Graphic Novel by Alison Bechdel</h4>
-						<h4 class="show-dates">April 18 to April 28 2019</h4>
-						<!-- <h4 class="show-location">Berger Performing Arts Center</h4> -->
-						</div>
-						<!-- <div class="col-sm-3">
-							<a href = "<?php echo $ticketUrl ?>" target="_blank"> 
-							<button class="btn btn-lg tickets mtb-10">Buy Tickets!</button>
-							</a>
-							<br>
-							<a class="btn btn-primary" href="./upcoming-shows/mamma_mia">More Info</a>
-						</div> -->
-
-
-
-
-					</div>
-
-					<p>A five-time Tony Award-winner and one of the most significant 
-					new musicals of the 21st century. Graphic novelist Alison dives deep 
-					into her past to tell the story of her volatile, brilliant, one-of-a-kind 
-					father, reliving her unique childhood at the family business — the Bechdel Funeral Home.
-					 Fun Home is a refreshingly honest, cathartic, and wholly original musical about seeing your parents through grown-up eyes.
-					</p>
-
-					
-				</div>
-			</div>
-
-			<hr>
-
-			<div class="row">
-				<div class="col-sm-4">
-					<a href="#"><img src="assets/img/hedwigweb.jpg" class="img-responsive img-rounded curent-show-img text-center mtb-25"/></a>
-
-				</div>
-				<div class="col-sm-8">
-				<h2>Hedwig and the Angry Inch</h2>
-					<div class="row">
-
-						<div class="col-sm-9">
-						
-
-						<h4 class="show-creators">Text by John Cameron Mitchell<br> Music and Lyrics by Stephen Trask</h4>
-						<h4 class="show-dates">Summer 2019</h4>
-						<!-- <h4 class="show-location">Berger Performing Arts Center</h4> -->
-						</div>
-						<!-- <div class="col-sm-3">
-							<a href = "<?php echo $ticketUrl ?>" target="_blank"> 
-							<button class="btn btn-lg tickets mtb-10">Buy Tickets!</button>
-							</a>
-							<br>
-							<a class="btn btn-primary" href="./upcoming-shows/mamma_mia">More Info</a>
-						</div> -->
-
-
-
-
-					</div>
-
-					<p>
-						"HEDWIG AND THE ANGRY INCH brings theater alive with the pounding sounds of rock 'n' roll and the funny sad voicing of a painful past…it is also an adult, thought-provoking musical about the quest for individuality…the kind of Rocky Horror Picture Show-style event that may inspire a rabid cult following." —NY Times.
-					</p>
-					<p>
-						"Sublimely trashy and surprisingly powerful." —LA Times.
-					</p>
-					<p>
-						"In the whole long, sorry history of rock musicals, HEDWIG AND THE ANGRY INCH is the first one that truly rocks." —Rolling Stone.
-					</p>
-					<p>
-						"The most exciting rock score written for the theater since, oh, ever!" —Time Magazine.
-					</p>
-
-					
-				</div>
-			</div>
 		
-			
-			<div class="mtb-25">
-			</div>
+		</div><a href="#"><img src=" HedwigPostcard.jpg" class="img-responsive img-rounded current-shoa<a href="#"><w-img text-center mtb-25"/></a><br>Tickets for all seven shows March 13-28) are available at Brown Paper Tickets NOTE: If you buy your tickets online, you avoid a $5 at the door fee!  <A HREF="https://www.brownpapertickets.com/event/4487053"><IMG SRC="https://www.brownpapertickets.com/g/6/BPT_buy_tickets_large.png" WIDTH=182 HEIGHT=92 BORDER=0></A>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<IMG SRC="Hedwigpcback.jpg"WIDTH=400 HEIGHT=200 BORDER=0><w-img text-right mtb-25"/>
 
-		</div>
-
-		<div class="about-section pb-10">
+					<br><br><br><br><div class="about-section pb-10">
 			<div class="container">
 				<div class="page-header">
 					<h1>About Us</h1>
