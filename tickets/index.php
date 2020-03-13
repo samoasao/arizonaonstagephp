@@ -25,7 +25,7 @@
 			<div class="col-sm-2">
 			</div>
             <div class="col-sm-5 johnston-dark">
-                <A HREF="https://www.brownpapertickets.com/event/4487053"><IMG
+                <A HREF="https://www.brownpapertickets.com/event/4546945"><IMG
                         SRC="https://www.brownpapertickets.com/g/6/BPT_buy_tickets_large.png" WIDTH=182 HEIGHT=92
                         BORDER=0></A>
 						<br>

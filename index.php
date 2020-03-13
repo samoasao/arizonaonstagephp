@@ -18,6 +18,18 @@
     <main>
 
         <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+				<p class="alert alert-danger" style="font-size: 32px;">
+                    Due to COVID-19 performances of "Hedwig and the Angry Inch" from March 21 - March 28th have been postponed until May 8th-24th. If
+                    you have purchased tickets for these postponed dates, you will be receiving an email with more
+                    details and options for new dates.
+					</p>
+                </div>
+
+
+
+            </div>
 
             <div class="row mtb-25">
 
@@ -44,7 +56,20 @@
 
             </div>
 
-			<hr>
+            <hr>
+
+			<div class="row">
+                <div class="col-md-12">
+				<p class="alert alert-danger" style="font-size: 32px;">
+                    Due to COVID-19 all performances of "OY" have been postponed until May 9th-24th. If
+                    you have purchased tickets for these postponed dates, you will be receiving an email with more
+                    details and options for new dates.
+					</p>
+                </div>
+
+
+
+            </div>
 
             <div class="row my-4">
                 <div class="col-md-6">
@@ -90,7 +115,7 @@
                             </p>
                         </div>
                         <div class="col-sm-6">
-						<br>
+                            <br>
                             <A HREF="https://www.brownpapertickets.com/event/4546945"><IMG
                                     SRC="https://www.brownpapertickets.com/g/6/BPT_buy_tickets_large.png" WIDTH=182
                                     HEIGHT=92 BORDER=0></A>
