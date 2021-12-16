@@ -1,0 +1,63 @@
+.nav-container{
+  width:100%;
+  background: rgb(34, 34, 34);
+  position:fixed;
+  left:0;
+}
+
+.subnavbar{
+  margin-top:5px;
+	padding:5px;
+  font-size:initial;
+	background: rgb(34, 34, 34);
+  width:60%;
+  left:20%;
+  z-index:5;
+  position:relative;
+}
+
+.subnavbar div{
+	margin:0;
+   border:1px solid white;
+}
+
+.subnavbar div:hover{
+	background-color:maroon;
+  color:white;
+}
+
+
+
+.subnavbar a{
+	padding:0px;
+	color: rgb(200, 200, 200);
+}
+
+#LesMis-navbuffer{
+	height: 60px;
+	
+}
+
+
+.cast-name{
+	text-align:left;
+	border-top: 1px solid rgb(200, 200, 200);
+  padding:0;
+}
+
+.cast-role{
+	text-align:right;
+	border-top: 1px solid rgb(200, 200, 200);
+  padding:0;
+
+}
+
+.last-row{
+	border-bottom: 1px solid rgb(200, 200, 200);
+
+}
+
+.cast-list{
+	list-style:none;
+}
+

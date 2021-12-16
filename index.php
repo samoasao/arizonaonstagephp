@@ -21,9 +21,8 @@
             <div class="row">
                 <div class="col-md-12">
 				<p class="alert alert-danger" style="font-size: 32px;">
-                    Due to COVID-19 performances of "Hedwig and the Angry Inch" from March 21 - March 28th have been postponed until May 8th-24th. If
-                    you have purchased tickets for these postponed dates, you will be receiving an email with more
-                    details and options for new dates.
+                    We are working on getting new dates do to the ever changing COVID 19 regulations.  We want our cast, crew and audiences safe!
+
 					</p>
                 </div>
 
@@ -35,7 +34,7 @@
 
                 <div class="col-md-10">
 
-                    <img src="HedwigPostcard.jpg" class="img-responsive img-rounded">
+                    <img src="HedwigPostcard.png" class="img-responsive img-rounded">
 
                 </div>
 
@@ -43,94 +42,18 @@
                     <p>
                         <br>
 
-                        Tickets for all seven shows (March 13-28) are available at
-                        Brown
-                        Paper
-                        Tickets
                     </p>
-                    <p>NOTE: If you buy your tickets online, you avoid a $5 at the door fee! </p> <A
-                        HREF="https://www.brownpapertickets.com/event/4487053"><IMG
+                    <!-- <p>NOTE: If you buy your tickets online, you avoid a $5 at the door fee! </p> 
+                    <A HREF="https://www.brownpapertickets.com/event/4555719"><IMG
                             SRC="https://www.brownpapertickets.com/g/6/BPT_buy_tickets_large.png" WIDTH=182 HEIGHT=92
-                            BORDER=0></A>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                            BORDER=0></A>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp -->
                 </div>
 
             </div>
 
             <hr>
 
-			<div class="row">
-                <div class="col-md-12">
-				<p class="alert alert-danger" style="font-size: 32px;">
-                    Due to COVID-19 all performances of "OY" have been postponed until May 9th-24th. If
-                    you have purchased tickets for these postponed dates, you will be receiving an email with more
-                    details and options for new dates.
-					</p>
-                </div>
-
-
-
-            </div>
-
-            <div class="row my-4">
-                <div class="col-md-6">
-
-
-                    <IMG SRC="MrJ-OY.jpg" class="img-responsive img-rounded">
-
-                    <br><br><br><br>
-
-                </div>
-
-
-                <div class="col-md-6">
-                    <div class="row">
-
-                        <br>
-                        <p>
-                            Shtick Concepts, working with Arizona Onstage Productions presents the Arizona premiere of
-                            the
-                            stage
-                            comedy OY!, written by Rich Orloff and directed by Robert Ulsrud. Featuring Shari Goddard,
-                            Stephen
-                            Dunham, Michelle Holland, H. Bird Moody, Josef Kaye, Marjorie Kay and Craig Ludwiczak.
-                            OY! is a collection of 10 short comedies, each illustrating the meaning of a Yiddish word
-                            -- including the untold stories of Eve and Adam, Einstein's demanding mother, the
-                            divorce trial of God and the human, the use of unkosher food as an aphrodisiac, and
-                            three men in a steam room who communicate using only the word "oy."" Appealing to
-                            audiences of all backgrounds, OY! is a tribute to the absurdity and comedy of being
-                            human. A hit at over 50 theaters around the country - and Bulgaria!... go figure.</p>
-                    </div>
-                    <div class="row">
-
-                        <div class="col-sm-6">
-                            <p class="bold">
-                                Performances:<br>
-                                Friday 3/20 – 7:30<br>
-                                Saturday 3/21 – 2pm<br>
-                                Sunday 3/22 – 2pm<br>
-                                <br>
-                                Saturday 3/28 2pm<br>
-                                Sunday 3/29 2pm<br>
-
-                            </p>
-                        </div>
-                        <div class="col-sm-6">
-                            <br>
-                            <A HREF="https://www.brownpapertickets.com/event/4546945"><IMG
-                                    SRC="https://www.brownpapertickets.com/g/6/BPT_buy_tickets_large.png" WIDTH=182
-                                    HEIGHT=92 BORDER=0></A>
-                        </div>
-
-
-
-                    </div>
-                </div>
-
-            </div>
-
-
-
-        </div>
+			
 
         </div>
         <div class="about-section pb-10">
