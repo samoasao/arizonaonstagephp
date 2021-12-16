@@ -19,6 +19,12 @@ h1{font-family: 'Poiret One', cursive;}
 	border-radius: 0
 }
 
+.hedwigFont{
+	font-family: 'Readex Pro', sans-serif;
+	color: #e60289;
+	background-color: black;
+}
+
 /*jumbotron*/
 .jumbotron{ 
 	background-image:url(../img/jumbo.jpg); 

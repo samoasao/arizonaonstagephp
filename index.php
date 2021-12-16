@@ -20,10 +20,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-				<p class="alert alert-danger" style="font-size: 32px;">
-                    We are working on getting new dates do to the ever changing COVID 19 regulations.  We want our cast, crew and audiences safe!
+                    <p class="hedwigFont text-center" style="font-size: 44px;">
+                        SHE'S BACK AND READY TO ROCK!
 
-					</p>
+                    </p>
                 </div>
 
 
@@ -32,28 +32,29 @@
 
             <div class="row mtb-25">
 
-                <div class="col-md-10">
+                <div class=" col-md-8">
 
-                    <img src="HedwigPostcard.png" class="img-responsive img-rounded">
+                    <img src="hedwigweb.jpg" class="img-responsive img-rounded">
 
                 </div>
 
-                <div class="col-md-2">
-                    <p>
-                        <br>
+                <div class="col-md-4">
+                    2022 Dates: <br>
+                    Fridays 3/18, 3/25 - 8pm <br>
+                    Saturdays 3/19, 3/26 - 8pm <br>
+                    Sundays 3/20, 3/27 - 5pm <br>
+                    <p>Temple of Music and Art Cabaret Space </p>
+                    <p>All actors and staff are fully vaccinated - proof of Vaccination and masks required for all
+                        audience members. <br>
+                        All tickets: $25 Tickets on sale soon!</p>
 
-                    </p>
-                    <!-- <p>NOTE: If you buy your tickets online, you avoid a $5 at the door fee! </p> 
-                    <A HREF="https://www.brownpapertickets.com/event/4555719"><IMG
-                            SRC="https://www.brownpapertickets.com/g/6/BPT_buy_tickets_large.png" WIDTH=182 HEIGHT=92
-                            BORDER=0></A>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp -->
                 </div>
 
             </div>
 
             <hr>
 
-			
+
 
         </div>
         <div class="about-section pb-10">

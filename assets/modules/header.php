@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="<?php echo $url; ?>/assets/css/style.css" type="text/css" media="screen" />
     <link rel="shortcut icon" href="<?php echo $url; ?>/assets/img/favicon.ico" type="image/x-icon" />
     <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|Poiret+One|Proza+Libre" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@600&display=swap" rel="stylesheet">
 </head>
-
-
