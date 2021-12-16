@@ -79,7 +79,3 @@ Sun - 12/21  2:30pm <br>
 </div>
 </div>
 
-<?php
-  $CONTENT = ob_get_clean();
-  include "../../template.php";
-?>

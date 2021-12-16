@@ -75,8 +75,3 @@ Without elaborate sets, fancy costumes and make-up effects, it's left up to the 
 
 </div>
 </div>
-
-<?php
-  $CONTENT = ob_get_clean();
-  include "../template.php";
-?>

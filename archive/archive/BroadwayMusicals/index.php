@@ -47,7 +47,3 @@ Sun - 2/8  2:30pm
 </div>
 </div>
 
-<?php
-  $CONTENT = ob_get_clean();
-  include "../../template.php";
-?>

@@ -152,10 +152,3 @@ Sun - 4/5  2:30pm
 
 
 
-<?php
-
-  $CONTENT = ob_get_clean();
-
-  include "../../template.php";
-
-?>

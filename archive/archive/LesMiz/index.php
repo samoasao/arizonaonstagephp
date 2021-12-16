@@ -122,13 +122,13 @@
 
     <p id="tvSpot" style="padding-top: 130px; margin-top: -130px;"></p>
 
-    <video width="560" height="315" poster="Images/videologo.jpg" controls>
+    <video width="560" height="315" poster="../../Images/videologo.jpg" controls>
 
-  <source src="Media/LesMisTVSpot.mp4" type="video/mp4">
+  <source src="LesMisTVSpot.mp4" type="video/mp4">
 
 </video> 
 <br />
-<span style="font-size:14px;">If you're having trouble viewing the video please <a href="Media/LesMisTVSpot.mp4">click here.</a></span>
+<span style="font-size:14px;">If you're having trouble viewing the video please <a href="LesMisTVSpot.mp4">click here.</a></span>
 
     
 
