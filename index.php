@@ -7,10 +7,10 @@
         <div class="container">
             <h1 class="title"><?php echo $site_title; ?></h1>
             <p class="description">Bringing Broadway and Off-Broadway to Tucson for over 15 years!</p>
-            <!---<a href = "<?php echo $ticketUrl ?>" target="_blank"> 
-				<!---<button class="btn btn-lg mtb-25 tickets">
+            <a href = "<?php echo $ticketUrl ?>" target="_blank"> 
+				<button class="btn btn-lg mtb-25 tickets">
 				Buy Tickets!
-				</button>-->
+				</button>
             </a>
         </div>
     </div>
@@ -34,7 +34,7 @@
 
                 <div class=" col-md-8">
 
-                    <img src="hedwigweb.jpg" class="img-responsive img-rounded">
+                    <img src="hedwigweb2022.png" class="img-responsive img-rounded">
 
                 </div>
 
@@ -45,8 +45,16 @@
                     Sundays 3/20, 3/27 - 5pm <br>
                     <p>Temple of Music and Art Cabaret Space </p>
                     <p>All actors and staff are fully vaccinated - proof of Vaccination and masks required for all
-                        audience members. <br>
-                        All tickets: $25 Tickets on sale soon!</p>
+                        audience members. <br></p>
+                        <p>    $25 general admission<br/>
+                            $20 teacher/student/military 
+                            </p>    
+                        <a href = "<?php echo $ticketUrl ?>" target="_blank"> 
+                            <button class="btn btn-lg mtb-25 tickets">
+                            Buy Tickets!
+                            </button>
+                        </a>
+                    
 
                 </div>
 
@@ -84,8 +92,8 @@
                         height="1">
                 </form>
                 <p class="mtb-25">For Questions and More information: <br>
-                    (520) 882-6574 <br>
-                    azonstage@yahoo.com</p>
+                    (520) 834-1824 <br>
+                    kjohnson.stage@gmail.com</p>
 
             </div>
         </div>

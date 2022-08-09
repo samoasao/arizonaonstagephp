@@ -1,7 +1,7 @@
 <!-- SITE VARIABLES -->
 <?php $site_title = "Arizona Onstage Productions"; ?>
 <?php $url = ""; ?>
-<?php $ticketUrl = "/tickets"; ?>
+<?php $ticketUrl = "https://www.tix.com/ticket-sales/arizonaonstage/6887"; ?>
 
 <!DOCTYPE html>
 <html lang="en-us">
@@ -18,4 +18,5 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
 </head>
