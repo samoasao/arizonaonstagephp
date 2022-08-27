@@ -18,46 +18,29 @@
     <main>
 
         <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <p class="hedwigFont text-center" style="font-size: 44px;">
-                        SHE'S BACK AND READY TO ROCK!
-
-                    </p>
-                </div>
-
-
-
-            </div>
+       
 
             <div class="row mtb-25">
 
-                <div class=" col-md-8">
+                <div class="col-md-offset-3 col-md-6">
 
-                    <img src="hedwigweb2022.png" class="img-responsive img-rounded">
+                    <img src="handToGod.jpeg" class="img-responsive img-rounded">
 
                 </div>
 
-                <div class="col-md-4">
-                    2022 Dates: <br>
-                    Fridays 3/18, 3/25 - 8pm <br>
-                    Saturdays 3/19, 3/26 - 8pm <br>
-                    Sundays 3/20, 3/27 - 5pm <br>
-                    <p>Temple of Music and Art Cabaret Space </p>
-                    <p>All actors and staff are fully vaccinated - proof of Vaccination and masks required for all
-                        audience members. <br></p>
-                        <p>    $25 general admission<br/>
-                            $20 teacher/student/military 
-                            </p>    
+            </div>
+            <div class="row mtb-25">
+                <div class="col-md-offset-1 col-md-10">
+                    <img src="handToGodBack.jpeg" class="img-responsive img-rounded">
+                    
+                    <div class="text-center">
                         <a href = "<?php echo $ticketUrl ?>" target="_blank"> 
                             <button class="btn btn-lg mtb-25 tickets">
                             Buy Tickets!
                             </button>
                         </a>
-                    
-
+                    </div>
                 </div>
-
             </div>
 
             <hr>
